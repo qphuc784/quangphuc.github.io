@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="mystyle.css" />
+	<title>Phucdeptrai</title>
+</head>
+<body class="body">
+	<div><img src=""></div>
+	<h1>!! Queo Kom tu Ủaaaaaaa !! </h1>
+	<div class="bang1">
+		<table >
+			<tr>
+				<!-- mai lam profile tung nguoi	 -->
+				<th>
+					<p>...</p>
+				</th>
+				<th>
+					<a style="color: red"; href="">Anh Quân</a>
+				</th>
+				<th>
+					<a style="color: red"; href="">Ý Nhi</a>
+				</th>
+				<th>
+					<a style="color: red"; href="">Mỹ An</a>
+				</th>
+				<th>
+					<a style="color: red"; href="https://tin-cheerful-cap.glitch.me/">Linh Đan</a>
+				</th>
+				<th>
+					<a style="color: red"; href="">Vũ Thảo</a>
+				</th>
+				<th>
+					<a style="color: red"; href="">Tường</a>
+				</th>
+				<th>
+					<a style="color: red"; href="">Bảo Ngân</a>
+				</th>
+			</tr>
+			<tr>
+				<td>
+					<p><i>Facebook</i></p>
+				</td>
+				<td>
+					<a href="https://www.facebook.com/profile.php?id=100051292005287" target="_blank">
+					FB của Quân nè
+					</a>
+				</td>
+				<td>
+					<a href="https://www.facebook.com/ihnnp" target="_blank">
+					FB của ÝNhi nè
+					</a>
+				</td>
+				<td>
+					<a href="https://www.facebook.com/profile.php?id=100021971692168" target="_blank">
+					FB của An nè
+					</a>
+				</td>
+				<td>
+					<a href="https://www.facebook.com/linhhdannnnn" target="_blank">FB của Đan nè
+					</a>
+				</td>
+				<td>
+					<a href="https://www.facebook.com/vttml" target="_blank">
+					FB của Vũ Thảo nè
+					</a>
+				</td>
+				<td>
+					<a href="https://www.facebook.com/tuong.nguyenmanhnhu" target="_blank">FB của Tường nè
+					</a>
+				</td>
+				<td>
+					<a href="https://www.facebook.com/nganbao333" target="_blank">
+					FB của Ngân nè
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<p><i>Instagram</i></p>
+				</td>
+				<td>
+					<a href="https://www.instagram.com/qan.vanellope/" target="_blank">IG của Quân nè</a>
+				</td>
+				<td>
+					<a href="https://www.instagram.com/xs.ahaihn/" target="_blank">IG của Ý Nhi nè</a>
+				</td>
+				<td>
+					<a href="https://www.instagram.com/pma.mya/" target="_blank">IG của An nè</a>
+				</td>
+				<td>
+					<a href="https://www.instagram.com/_.linhdan._/" target="_blank">IG của Đan nè</a>
+				</td>
+				<td>
+					<a href="https://www.instagram.com/_iamvtt/" target="_blank">IG của Vũ Thảo nè</a>
+				</td>
+				<td>
+					<a href="https://www.instagram.com/tuog.snowhite/" target="_blank">IG của Tường nè</a>
+				</td>
+				<td>
+					<a href="https://www.instagram.com/_ngan.bao_/" target="_blank">IG của Ngân nè</a>
+				</td>
+			</tr>
+		</table>
+	</div>
+
+</body>
+</html>
