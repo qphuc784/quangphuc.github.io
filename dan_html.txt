@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	
+    <link rel="stylesheet" type="text/css" href="style.css" />
+	<title>Demo</title>
+</head>
+<body>
+	<div class="container">
+		<div class="menu">
+			<h2>Ura's Profile</h2>
+			<font size="3">Credit by quangphuc</font>
+		</div>
+		
+		<div class="content">
+		<ul>
+			<li><strong>Full name:</strong><p>Nguyễn Linh Đan</p></li>
+			<li><strong>Ủa's name:</strong><p>Pé Đean</p></li>
+			<li><strong>Ngày tháng năm đẻ:</strong><p>15/02/2004</p></li>
+			<li><strong>Miêu tả:</strong><p>Đam mê dzới ăn uống ngủ nghỉ</p> </li>
+			<li><strong>facebook:</strong><p><a href="https://www.facebook.com/linhhdannnnn" target="_blank">facebook.com/linhhdannnnn</a></p></li>
+			<li><strong>instagram:</strong><p><a href="https://www.instagram.com/_.linhdan._/">instagram.com/_.linhdan._/</a></p></li>
+		</ul>	
+		</div>
+		
+	</div>
+</body>
+</html>
