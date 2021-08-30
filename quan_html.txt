@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="quan.css" />
+	<title>Anh Quân!</title>
+</head>
+<body>
+	<div class="container">
+		<div class="menu">
+			<h2>Ura's Profile</h2>
+			<font size="3">Credit by quangphuc</font>
+		</div>
+		
+		<div class="content">
+		<ul>
+			<li><strong>Full name:</strong><p>Nguyễn Anh Quân</p></li>
+			<li><strong>Ủa's name:</strong><p>Quân Bê</p></li>
+			<li><strong>Ngày tháng năm đẻ:</strong><p>08/10/2003</p></li>
+			<li><strong>Miêu tả:</strong><p>uncle hmề, thik make up, trùm delay</p> </li>
+			<li><strong>facebook:</strong><p><a href="https://www.facebook.com/profile.php?id=100051292005287" target="_blank">Nguyễn Quân</a></p></li>
+			<li><strong>instagram:</strong><p><a href="https://www.instagram.com/qan.vanellope/">qan.vanellope</a></p></li>
+		</ul>	
+		</div>
+		
+	</div>
+</body>
+</html>
